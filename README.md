@@ -1,4 +1,4 @@
-###                                                     **Hello there! You can call me Macedo or 56** 
+### **Hello there! You can call me Macedo or 56** 
 
 
 - 🌱 I’m currently learning  JS
@@ -27,7 +27,7 @@
 <div> 
   <a href="https://www.instagram.com/maiscedob/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "brmacedomi28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/breno-macedo-37a170221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/breno-macedo-37a170221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bpshr8gKZQqOLemqvQTV93w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
