@@ -7,11 +7,11 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=dark)
 
  <img align="right" alt="gif" height="200" width="200" src="https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif"> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Br-76&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Br-76&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
