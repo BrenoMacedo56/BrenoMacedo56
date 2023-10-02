@@ -31,3 +31,41 @@
   
 </div>
 
+##
+
+![Foguetes no Céu](https://th.bing.com/th/id/OIP.K9q1z6EN1lpPlXDWy63wqwHaFj?pid=ImgDet&rs=1)
+
+---
+
+<div style="position: relative; width: 100%; height: 300px; background-image: url(https://wallup.net/wp-content/uploads/2016/01/34009-artwork-fantasy_art-concept_art-sky-galaxy-space-digital_art.jpg);">
+  <div class="rocket" style="top: 70%; left: 10%;"></div>
+  <div class="rocket" style="top: 40%; left: 30%;"></div>
+  <div class="rocket" style="top: 60%; left: 50%;"></div>
+  <div class="rocket" style="top: 50%; left: 70%;"></div>
+</div>
+
+---
+
+<style>
+.rocket {
+  position: absolute;
+  width: 30px;
+  height: 60px;
+  background-image: url(link_para_a_imagem_do_foguete);
+  background-size: cover;
+  animation: launch 2s infinite alternate;
+}
+
+@keyframes launch {
+  from {
+    top: 100%;
+    transform: scale(0.8);
+  }
+  to {
+    top: -50%;
+    transform: scale(1);
+  }
+}
+</style>
+
+##
