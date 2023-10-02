@@ -1,15 +1,25 @@
-### **Hello there! You can call me Macedo or 56** 
+### **Hello there! You can call me Macedo or Maiscedo** 
 
 
-- 🌱 I’m currently learning  JS
-- 🎒 Looking foward to become a BackEnd dev 
-- 🫠 Pronouns : literally/me 
+- 🌱 Junior Dev
+- 🎒 Looking foward to Work with AI
 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=dark)
 
- <img align="right" alt="gif" height="200" width="200" src="https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif"> 
+ <img align="right" alt="gif" height="200" width="200" src="https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif" class="gif-animation"> 
+ <style>
+.gif-animation {
+  animation: spin 2s infinite linear; 
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); } 
+}
+</style>
+
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Br-76&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
