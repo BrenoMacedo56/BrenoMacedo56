@@ -8,7 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=dark)
 
- <img align="right" alt="gif" height="200" width="200" src="https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif" class="gif-animation"> 
+ <img align="right" alt="gif" height="200" width="200" src="https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif" class="gif-animation">
+
  <style>
 .gif-animation {
   animation: spin 2s infinite linear; 
