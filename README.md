@@ -33,7 +33,7 @@
 
 ##
 
-![Foguetes no Céu](https://th.bing.com/th/id/OIP.K9q1z6EN1lpPlXDWy63wqwHaFj?pid=ImgDet&rs=1)
+![Foguetes no Céu]()
 
 ---
 
@@ -51,7 +51,7 @@
   position: absolute;
   width: 30px;
   height: 60px;
-  background-image: url(link_para_a_imagem_do_foguete);
+  background-image: url(https://i.pinimg.com/originals/a0/13/ad/a013adc9488cbfe7311bfbf04d48ffe8.jpg);
   background-size: cover;
   animation: launch 2s infinite alternate;
 }
