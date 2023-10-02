@@ -32,11 +32,6 @@
 
 <style>
 .gif-animation {
-  animation: spin 2s infinite linear;
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  animation: spin  infinite linear;
 }
 </style>
