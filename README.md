@@ -8,7 +8,7 @@ To be fair, I am still exploring the specific area in which I would like to work
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=dark)
 
-<img align="right" alt="gif" height="200" width="200" src="[https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAwdnFxYWFkOWU1dmZ4aDkzeXAyNTJiZ3BqZXhpNmp4eWtiNWlzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iiJ870TcI3PZKxatzS/giphy.gif)" class="gif-animation"> 
+<img align="right" alt="gif" height="200" width="200" src="[https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif" class="gif-animation"> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Br-76&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
