@@ -1,30 +1,35 @@
-### **Guten Morgen,Tag,Nacht! You can call me Macedo** 
+# **`Ola! HI! Hallo!`** 
+ 
+  <img height="100" width="110" align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/BrenoMacedo56/BrenoMacedo56/assets/128511253/aeb1c12b-694f-43e3-96ba-3bbb4f091ab1">
 
-To be fair, I am still exploring the specific area in which I would like to work, but my primary focus is on Backend and cloud computing.
-🎖️I am currently pursuing a degree in Information Systems.
+**You can call me Macedo ~~or the best developer in the word 👑~~**
+
+
+I work as a Backend developer.
+
+>To be fair, I am still exploring the specific area in which I would like to work, but my primary focus is on Backend and cloud computing.
+>
+
+
+🎖️On going graduation in Information Systems.
+
+
+What you can expect here:
+ + APIs
+ + Software Architecture
+ + Data and Algorithm Studies
+ + Design Patterns
+
+Where you can find me 👇
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-macedo-37a170221)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brmacedomi28@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maiscedob/)
+
 
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Br-76&hide=contribs&show_icons=true&theme=dark)
-
-<img align="right" alt="gif" height="200" width="200" src="[https://media.tenor.com/fHr9qlbOMC0AAAAC/pixel-art.gif" class="gif-animation"> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Br-76&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<img height="250" width="410"  align="botton" src="https://github-readme-stats.vercel.app/api?username=BrenoMacedo56&hide=contribs&show_icons=true&theme=dark"> <img  height="200" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMacedo56&theme=dark&layout=donut">
 
 ##
-
-<div> 
-  <a href="https://www.instagram.com/maiscedob/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="brmacedomi28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/breno-macedo-37a170221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bpshr8gKZQqOLemqvQTV93w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-
