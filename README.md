@@ -46,7 +46,7 @@ Languages and Tecs that i use 🎒
 ##
 
 <div style="display: inline_block">
-<img height="250" width="410"  align="botton" src="https://github-readme-stats.vercel.app/api?username=BrenoMacedo56&hide=contribs&show_icons=true&theme=dark"> <img  height="200" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMacedo56&theme=dark&layout=donut">
+<img height="250" width="210"  align="botton" src="https://github-readme-stats.vercel.app/api?username=BrenoMacedo56&hide=contribs&show_icons=true&theme=dark"> <img  height="200" width="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMacedo56&theme=dark&layout=donut">
 </div>
 
 ##
@@ -60,4 +60,4 @@ Languages and Tecs that i use 🎒
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display: center;">
   </a>
 </div>
-#
+
