@@ -57,7 +57,7 @@ Languages and Tecs that i use 🎒
 
 <div>
   <a href="https://open.spotify.com/playlist/0yIKcP710rbuH2kJYtIU2C?si=d8eb326f30a54c27" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display: center;">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </div>
 
