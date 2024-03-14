@@ -46,14 +46,14 @@ Languages and Tecs that i use 🎒
 ##
 
 <div style="display: inline_block">
-<img height="250" width="210"  align="botton" src="https://github-readme-stats.vercel.app/api?username=BrenoMacedo56&hide=contribs&show_icons=true&theme=dark"> <img  height="200" width="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMacedo56&theme=dark&layout=donut">
+<img height="250" width="310"  align="botton" src="https://github-readme-stats.vercel.app/api?username=BrenoMacedo56&hide=contribs&show_icons=true&theme=dark"> <img  height="200" width="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMacedo56&theme=dark&layout=donut">
 </div>
 
 ##
 
 #
 
-🎵 Every developer needs their chill-out tubes for a little mental reconstructio after that bug on line 5, so here are some for you 🎵 
+🎵 Every developer needs their chill-out tubes for a little mental reconstructio after that bug on line 5, so here are some for you 
 
 <div>
   <a href="https://open.spotify.com/playlist/0yIKcP710rbuH2kJYtIU2C?si=d8eb326f30a54c27" target="_blank">
