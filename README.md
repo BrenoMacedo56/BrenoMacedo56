@@ -51,6 +51,8 @@ Languages and Tecs that i use 🎒
 
 ##
 
+#
+
 🎵 Every developer needs their chill-out tubes for a little mental reconstructio after that bug on line 5, so here are some for you 🎵 
 
 <div>
@@ -58,3 +60,4 @@ Languages and Tecs that i use 🎒
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="display: center;">
   </a>
 </div>
+#
