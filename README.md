@@ -53,7 +53,7 @@ Languages and Tecs that i use 🎒
 
 #
 
-🎵 Every developer needs their chill-out tubes for a little mental reconstructio after that bug on line 5, so here are some for you 
+🎵 Every developer needs their chill-out tunes for a little mental reconstructio after that bug on line 5, so here are some for you 
 
 <div>
   <a href="https://open.spotify.com/playlist/0yIKcP710rbuH2kJYtIU2C?si=d8eb326f30a54c27" target="_blank">
