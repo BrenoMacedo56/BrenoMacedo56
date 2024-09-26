@@ -7,7 +7,7 @@
 
 I work as a Backend developer.
 
->To be fair, I am still exploring the specific area in which I would like to work, but my primary focus is on Backend and cloud computing.
+>To be fair, I am still exploring the specific area in which I would like to work, but my primary focus is on Backend and AI development.
 >
 
 
