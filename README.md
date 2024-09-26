@@ -32,12 +32,12 @@ Where you can find me 👇
 Languages and Tecs that i use 🎒
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt= C#>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= JavaScript>
-  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt= Java>
-  <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt= NodeJS>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt= JavaScript>
+  <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt= Java>
+  <img align="center" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt= NodeJS>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt= Python>
-  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt= MySql>
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt= MongoDB> 
+  <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt= MySql>
+  <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt= MongoDB> 
   <img align="center" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt= PHP> 
  
 
