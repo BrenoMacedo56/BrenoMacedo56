@@ -31,7 +31,6 @@ Where you can find me 👇
 
 Languages and Tecs that i use 🎒
 <div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt= C#>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt= JavaScript>
   <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt= Java>
   <img align="center" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt= NodeJS>
